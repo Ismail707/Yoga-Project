@@ -1,0 +1,1255 @@
+@media only screen and (max-width : 767px) {
+    
+    /* Home One */
+    .pt-100 {
+        padding-top: 50px;
+    }
+    .pb-70 {
+        padding-bottom: 20px;
+    }
+    .ptb-100 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .nav-right{
+        display: none;
+    }
+    .mobile-nav .logo {
+        width: 35px;
+        position: fixed;
+        top: 8px;
+    }
+    .mean-container .mean-bar {
+        position: fixed;
+    }
+    .slider-item {
+        height: 100%;
+    }
+    .slider-text {
+        padding-top: 170px;
+        padding-bottom: 100px;
+    }
+    .slider-text h2 {
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    .slider-text p {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 40px;
+    }
+    .slider-text a {
+        font-size: 12px;
+        padding: 10px 30px 10px;
+    }
+    .service-head h2 {
+        font-size: 20px;
+    }
+    .service-head {
+        margin-bottom: 35px;
+        text-align: center;
+    }
+    .service-head span {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    .home-service:before {
+        display: none;
+    }
+    .home-service-item i {
+        font-size: 25px;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        top: -26px;
+    }
+    .home-service-item h3 {
+        font-size: 16px;
+        padding-top: 45px;
+        padding-bottom: 22px;
+    }
+    .home-service-item p {
+        font-size: 13px;
+        margin-bottom: 35px;
+        padding: 0 5px;
+    }
+    .home-service-item .service-btn {
+        padding: 10px 30px;
+        font-size: 12px;
+        margin-bottom: 42px;
+    }
+    .home-about-item p {
+        margin-bottom: 30px;
+        font-size: 13px;
+    }
+    .home-about-item  {
+        text-align: center;
+    }
+    .home-about-item ul li {
+        padding-bottom: 12px;
+        font-size: 13px;
+    }    
+    .home-about-item ul li i {
+        font-size: 15px;
+        margin-right: 10px;
+    }
+    .home-about-item a {
+        font-size: 12px;
+        margin-top: 40px;
+        padding: 10px 30px;
+    }
+    .home-video-item {
+        text-align: center;
+    }
+    .home-video-item h3 {
+        margin-bottom: 10px;
+    }
+    .home-video-item p {
+        font-size: 13px;
+        margin-bottom: 25px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .home-video-item ul li a i {
+        left: 10px;
+        top: -10px;
+        font-size: 33px;
+    }
+    .home-video-item ul li a h3 {
+        margin-bottom: 3px;
+        font-size: 15px;
+        padding-left: 35px;
+    }
+    .home-video-item ul li a span {
+        font-size: 12px;
+        padding-left: 35px;
+    }
+    .home-video-item .video-topic a {
+        font-size: 12px;
+        padding: 10px 30px;
+        margin-top: 40px;
+    }
+    .home-video-right {
+        height: 370px;
+    }
+    .home-video-right a {
+        left: 38%;
+        top: 36%;
+        height: 70px;
+        width: 70px;
+        line-height: 70px;
+        font-size: 25px;
+    }
+    .home-video-right a:before, .home-video-right a:after {
+        left: -15px;
+        right: -15px;
+        top: -15px;
+        bottom: -15px;
+    }
+    .home-wedo-item img {
+        margin-bottom: 15px;
+    }
+    .home-wedo-item h3 {
+        font-size: 15px;
+        padding-bottom: 5px;
+    }
+    .home-wedo-item p {
+        padding-bottom: 5px;
+    }
+    .home-wedo-item span {
+        font-size: 14px;
+    }
+    .home-pricing-item {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .home-pricing-item .home-pricing-top h3 {
+        font-size: 15px;
+        padding-bottom: 15px;
+    }
+    .home-pricing-item .home-pricing-top p {
+        font-size: 20px;
+    }
+    .home-pricing-item .home-pricing-top {
+        padding-top: 25px;
+        padding-bottom: 35px;
+    }
+    .home-pricing-bottom ul li a {
+        font-size: 13px;
+    }
+    .home-pricing-item .home-pricing-top img {
+        width: 70px;
+    }
+    .home-pricing-bottom ul li {
+        padding-bottom: 13px;
+    }
+    .home-pricing-bottom .pricing-btn {
+        font-size: 12px;
+        padding: 10px 20px;
+        margin-top: 20px;
+    }
+    .home-pricing-bottom {
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+    .home-pricing-item .standard-btm {
+        padding-bottom: 25px;
+    }
+    .home-pricing-item .standard:before {
+        display: none;
+    }
+    .home-girl-item p {
+        font-size: 13px;
+        margin-bottom: 15px;
+        margin-top: 10px;
+        line-height: 26px;
+        text-align: center;
+    }
+    .home-girl-item span {
+        font-size: 16px;
+        padding-left: 0;
+        text-align: center;
+        display: block;
+    }
+    .home-girl-item i {
+        top: 5px;
+        left: 3px;
+        font-size: 13px;
+    }
+    .home-trainer-top {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .home-trainer-top h3 {
+        padding-bottom: 8px;
+    }
+    .home-social {
+        padding: 0 0;
+    }
+    .home-social-item {
+        margin-bottom: 30px;
+    }
+    .home-social-two ul li {
+        font-size: 13px;
+        padding-bottom: 14px;
+    }
+    .home-social-three ul li {
+        padding-bottom: 14px;
+        font-size: 13px;
+    }
+    .home-social-three ul li i {
+        font-size: 17px;
+        margin-right: 5px;
+    }
+    .home-social-item .email {
+        margin-top: 0;
+    }
+    .home-social-item .form-control {
+        height: 45px;
+        font-size: 13px;
+        padding-left: 25px;
+    }
+    .home-social-item .form-group i {
+        font-size: 20px;
+        padding: 7px 20px;
+    }
+    #toTop {
+        bottom: 25px;
+        right: -10px;
+    }
+    /* End Home One */
+
+    /* Home Two */
+    .home-slider-two .slider-text-two {
+        padding-top: 170px;
+        padding-bottom: 100px;
+    }
+    .home-slider-two .slider-text-two span {
+        font-size: 24px;
+        padding-bottom: 30px;
+    }
+    .home-slider-two .slider-text-two p {
+        font-size: 14px;
+    }
+    .home-slider-two .slider-text-two a {
+        font-size: 12px;
+        padding: 10px 30px;
+        margin-top: 40px;
+    }
+    .home-about .about-btn {
+        margin-top: 8px;
+    }
+    .htwo-benefits-left ul li h3 {
+        font-size: 15px;
+        margin-bottom: 6px;
+    }
+    .htwo-benefits-left ul li p {
+        font-size: 12px;
+    }
+    .htwo-benefits-left ul li i {
+        top: 12px;
+        font-size: 16px;
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+    }
+    .htwo-benefits-left ul li {
+        padding-bottom: 25px;
+    }
+    .htwo-benefits-right ul li h3 {
+        padding-left: 65px;
+    }
+    .htwo-benefits-right ul li p {
+        padding-left: 65px;
+    }
+    .htwo-schedule-item p {
+        font-size: 12px;
+        padding-bottom: 25px;
+        text-align: center;
+    }
+    .htwo-schedule-item ul li h3 {
+        font-size: 15px;
+        padding-bottom: 6px;
+    }
+    .htwo-schedule-item ul li p {
+        font-size: 12px;
+        text-align: left;
+    }
+    .htwo-schedule-item ul li i {
+        font-size: 23px;
+        width: 55px;
+        height: 55px;
+        line-height: 55px;
+    }
+    .htwo-schedule-item ul li {
+        padding-left: 75px;
+        padding-bottom: 30px;
+    }
+    .htwo-schedule-item .video-topic a {
+        font-size: 12px;
+        padding: 10px 30px;
+        margin-top: 35px;
+    }
+    .htwo-schedule-item img {
+        border: 5px solid #fff;
+    }
+    .htwo-schedule-inner h3 {
+        bottom: 70px;
+    }
+    .htwo-schedule-inner p {
+        bottom: 17px;
+    }
+    .htwo-schedule-inner a {
+        right: 40%;
+        top: 29%;
+    }
+    .htwo-choose span {
+        font-size: 20px;
+        text-align: center;
+    }
+    .htwo-choose-btn {
+        text-align: center;
+    }
+    .htwo-choose a {
+        font-size: 12px;
+        padding: 10px 35px;
+    }
+    .htwo-counter-item h3 {
+        font-size: 20px;
+        padding-bottom: 0px;
+        padding-left: 40px;
+    }
+    .htwo-counter-item p {
+        font-size: 12px;
+        padding-left: 40px;
+        line-height: 23px;
+    }
+    .htwo-counter-item i {
+        font-size: 32px;
+    }
+    .htwo-contact-item i {
+        font-size: 20px;
+        margin-bottom: 12px;
+        width: 55px;
+        height: 52px;
+        line-height: 52px;
+    }
+    .home-social-one img {
+        width: 55px;
+    }
+    /* End Home Two */
+
+    /* Classes */
+    .p-three-banner {
+        height: 430px;
+    }
+    .p-three-banner .banner-text span {
+        font-size: 38px;
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .about-p-three .service-head span {
+        padding-left: 0;
+    }
+    .about-p-three .service-head h2 {
+        padding-left: 0;
+    }
+    .about-p-three .service-head p {
+        font-size: 12px;
+        padding-top: 20px;
+        text-align: center;
+    }
+    .about-p-three-item .img-one {
+        position: relative;
+        margin-bottom:30px;
+    }
+    .about-p-three-item .img-two {
+        position: relative;
+        top: 30px;
+        margin-bottom: 30px;
+        border-left: 0;
+        border-bottom: 0;
+    }
+    .about-p-three .service-head {
+        margin-bottom: -5px;
+    }
+    .about-p-three-item p {
+        font-size: 12px;
+        line-height: 25px;
+    }
+    .about-p-three-item h3 {
+        font-size: 14px;
+        padding: 10px 0;
+    }
+    .about-p-three-item a {
+        font-size: 12px;
+        padding: 10px 30px;
+        margin-top: 30px;
+    }
+    .p-six-day span {
+        padding: 10px 0 7px;
+        font-size: 12px;
+    }
+    .p-six-day .day-item h3 {
+        font-size: 13px;
+        padding-top: 20px;
+    }
+    .p-six-day .day-item p {
+        font-size: 12px;
+        padding: 7px 0 4px;
+    }
+    .p-six-day .day-item span {
+        font-size: 13px;
+        padding-bottom: 18px;
+    }
+    .footer-head h3 {
+        font-size: 17px;
+        padding-bottom: 13px;
+    }
+    /* End Classes */
+
+    /* Team */
+    .p-seven-member .p-seven-member-item img{
+        width: 100%;
+    }
+    .p-seven-member .p-seven-member-item h3 {
+        font-size: 14px;
+        padding-bottom: 8px;
+        padding-top: 20px;
+    }
+    .p-seven-member .p-seven-member-item p {
+        padding-bottom: 18px;
+    }
+    .p-seven-team-inner {
+        position: relative;
+        left: 0;
+        top: 25px;
+    }
+    .p-seven-team-inner h3 {
+        font-size: 14px;
+    }
+    .p-seven-team-inner span {
+        font-size: 14px;
+        padding-top: 9px;
+        padding-bottom: 6px;
+    }
+    .p-seven-team-inner p {
+        font-size: 14px;
+        padding-bottom: 18px;
+        line-height: 24px;
+    }
+    .p-seven-team-inner ul li a {
+        font-size: 13px;
+        margin-right: 6px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .team-before:after {
+        width: 85%;
+        left: 4px;
+        top: -10px;
+    }
+    .p-seven-team .team-one, .p-seven-team .team-two {
+        margin-bottom: 85px;
+    }
+    .team-before img {
+        margin-left: 18px;
+    }
+    .p-seven-team-item {
+        margin-bottom: 70px;
+    }
+    /* End Team */
+
+    /* 404 */
+    .p-nine-error-item span {
+        font-size: 60px;
+        margin-top: 10px;
+    }
+    .p-nine-error-item p {
+        font-size: 22px;
+        padding: 5px 0 50px;
+    }
+    .p-nine-error-item a {
+        padding: 12px 28px;
+        box-shadow: 6px 10px 12px 0px #f363679e;
+        -webkit-box-shadow: 6px 10px 12px 0px #f363679e;
+        font-size: 13px;
+    }
+    .error-footer:before {
+        width: 100%;
+        height: 100%;
+    }
+    /* End 404 */
+
+    /* About */
+    .p-three-banner .banner-text p {
+        font-size: 15px;
+        margin-top: 12px;
+    }
+    .p-three-weight .weight {
+        padding: 50px 15px 50px 35px;
+    }
+    .p-three-weight-item h2 {
+        font-size: 20px;
+        margin-bottom: 12px;
+    }
+    .p-three-weight-item p {
+        font-size: 13px;
+        line-height: 23px;
+        padding-bottom: 16px;
+    }
+    /* End About */
+
+    /* Contact */
+    .p-four-updates .service-head {
+        padding-bottom: 0;
+    }
+    .p-four-updates .htwo-schedule-item ul li i {
+        font-size: 20px;
+    }
+    .p-four-updates .htwo-schedule-item ul li {
+        padding-bottom: 35px;
+    }
+    .p-four-updates .htwo-schedule-item ul li p {
+        padding-bottom: 5px;
+    }
+    .p-four-contact img {
+        width: 57px;
+        padding-top: 16px;
+        padding-bottom: 16px;
+    }
+    .p-four-contact p {
+        font-size: 14px;
+        padding-bottom: 30px;
+    }
+    .contact-form .form-control {
+        font-size: 14px;
+    }
+    .send-btn {
+        font-size: 13px;
+        padding: 11px 32px;
+    }
+    /* End Contact */
+
+    /* Shop */
+    .p-eight-short-wrap a {
+        font-size: 13px;
+        padding: 5px 15px;
+    }
+    .p-eight-short-wrap p {
+        top: 2px;
+        font-size: 13px;
+    }
+    .p-eight-item img {
+        padding-top: 25px;
+        padding-bottom: 10px;
+        height: 210px;
+    }
+    .p-eight-item h3 {
+        font-size: 15px;
+        padding: 12px 0 6px;
+    }
+    .p-eight-item span {
+        font-size: 15px;
+        padding-bottom: 15px;
+    }
+    .pagination-area ul li a {
+        padding: 7px 14px;
+        font-size: 13px;
+        margin-right: 2px;
+        margin-left: 2px;
+    }
+    .p-eight-item-name {
+        padding-top: 20px;
+        padding-left: 25px;
+        padding-bottom: 10px;
+    }
+    .p-eight-item-name ul li {
+        padding-bottom: 12px;
+    }
+    .p-eight-item-name ul li a {
+        font-size: 13px;
+    }
+    .p-eight-item-name-new {
+        padding-top: 30px;
+        padding-left: 21px;
+    }
+    .new-inner {
+        padding-bottom: 20px;
+    }
+    .p-eight-item-name-new ul li {
+        padding-bottom: 12px;
+    }
+    /* End Shop */
+
+}
+
+@media only screen and (min-width : 768px) and (max-width : 991px) {
+
+    /* Home */
+    .ptb-100 {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .pb-70 {
+        padding-bottom: 40px;
+    }
+    .pt-100 {
+        padding-top: 70px;
+    }
+    .mean-container .mean-bar {
+        position: fixed;
+    }
+    .mobile-nav .logo {
+        position: fixed;
+    }
+    .mean-container .mean-bar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .mobile-nav .logo {
+        top: 9px;
+        width: 42px;
+    }
+    .nav-right{
+        display: none;
+    }
+    .slider-text {
+        max-width: 100%;
+        text-align: center;
+    }
+    .slider-text h2 {
+        font-size: 35px;
+        margin-bottom: 30px;
+    }
+    .slider-text p {
+        font-size: 17px;
+        max-width: 100%;
+        margin-bottom: 35px;
+    }
+    .slider-text a {
+        font-size: 13px;
+        padding: 12px 32px 12px;
+    }
+    .home-service-item h3 {
+        font-size: 17px;
+        font-weight: 600;
+        padding-top: 55px;
+        padding-bottom: 25px;
+    }
+    .home-service-item i {
+        font-size: 32px;
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        top: -31px;
+    }
+    .home-service-item p {
+        font-size: 14px;
+        margin-bottom: 35px;
+    }
+    .home-service-item .service-btn {
+        padding: 13px 35px;
+        font-size: 14px;
+        margin-bottom: 40px;
+    }
+    .home-service:before {
+        height: 35%;
+    }
+    .service-head span {
+        font-size: 13px;
+        margin-bottom: 7px;
+    }
+    .service-head h2 {
+        font-size: 30px;
+    }
+    .home-about-inner {
+        margin-bottom: 20px;
+    }
+    .home-about-item p {
+        font-size: 14px;
+        margin-bottom: 25px;
+    }
+    .home-about-item ul li {
+        padding-bottom: 15px;
+        font-size: 14px;
+    }
+    .home-about-item ul li i {
+        font-size: 16px;
+        margin-right: 10px;
+    }
+    .home-about-item a {
+        font-size: 13px;
+        margin-top: 30px;
+        padding: 13px 35px;
+    }
+    .home-video-item h3 {
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    .home-video-item p {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .home-video-item ul li a h3 {
+        margin-bottom: 3px;
+        font-size: 14px;
+    }
+    .home-video-item ul li a i {
+        top: -10px;
+    }
+    .home-video-item .video-topic a {
+        font-size: 15px;
+        padding: 12px 35px;
+        margin-top: 35px;
+    }
+    .home-video-right a {
+        left: 40%;
+        top: 42%;
+        height: 80px;
+        width: 80px;
+        line-height: 80px;
+        font-size: 25px;
+    }
+    .home-wedo .service-head {
+        max-width: 380px;
+    }
+    .service-head {
+        margin-bottom: 45px;
+    }
+    .home-wedo-item img {
+        margin-bottom: 15px;
+    }
+    .home-wedo-item h3 {
+        padding-bottom: 5px;
+    }
+    .home-wedo-item p {
+        padding-bottom: 5px;
+    }
+    .home-pricing .service-head {
+        max-width: 235px;
+    }
+    .home-pricing-item .home-pricing-top {
+        padding-top: 25px;
+        padding-bottom: 30px;
+    }
+    .home-pricing-item .home-pricing-top h3 {
+        font-size: 16px;
+        padding-bottom: 18px;
+    }
+    .home-pricing-item .home-pricing-top p {
+        font-size: 22px;
+    }
+    .home-pricing-item .home-pricing-top img {
+        right: 15px;
+        width: 70px;
+    }
+    .home-pricing-item .standard h3 {
+        font-size: 18px;
+        padding-bottom: 20px;
+    }
+    .home-pricing-item .standard p {
+        font-size: 23px;
+    }
+    .home-pricing-item .standard:before {
+        height: 12px;
+        top: -12px;
+    }
+    .home-pricing-bottom {
+        padding-top: 40px;
+        padding-bottom: 25px;
+    }
+    .home-pricing-bottom ul li {
+        padding-bottom: 20px;
+    }
+    .home-pricing-bottom .pricing-btn {
+        font-size: 13px;
+        padding: 12px 30px;
+        margin-top: 20px;
+    }
+    .home-girl-item p {
+        font-size: 14px;
+        margin-bottom: 15px;
+        margin-top: 30px;
+        line-height: 26px;
+    }
+    .home-girl-item i {
+        top: 6px;
+        left: -25px;
+        font-size: 30px;
+    }
+    .home-girl-item span {
+        font-size: 15px;
+    }
+    .home-trainer .service-head {
+        max-width: 200px;
+    }
+    .home-trainer-top {
+        padding-top: 21px;
+        padding-bottom: 22px;
+    }
+    .home-trainer-top h3 {
+        padding-bottom: 6px;
+    }
+    .home-latest .service-head {
+        max-width: 370px;
+    }
+    .home-social-two ul li {
+        font-size: 13px;
+        padding-bottom: 13px;
+    }
+    .home-social-three ul li a {
+        font-size: 13px;
+    }
+    .home-social-three ul li {
+        padding-bottom: 13px;
+    }
+    .footer-head h3 {
+        font-size: 14px;
+    }
+    .home-social-three ul li i {
+        font-size: 17px;
+        margin-right: 8px;
+    }
+    .home-social-item .form-control {
+        padding: 0;
+        padding-left: 10px;
+        height: 50px;
+        font-size: 11px;
+        height: 32px;
+    }
+    .home-social-item .form-group i {
+        font-size: 14px;
+        padding: 5px 10px;
+    }
+    footer {
+        padding: 15px 0;
+    }
+    .home-pricing-item .standard-btm {
+        padding-bottom: 35px;
+    }
+    /* End Home */
+
+    /* Home Two */
+    .home-slider-two .slider-text-two {
+        max-width: 100%;
+    }
+    .home-slider-two .slider-text-two span {
+        font-size: 35px;
+        padding-bottom: 35px;
+    }
+    .home-slider-two .slider-text-two p {
+        font-size: 17px;
+    }
+    .home-slider-two .slider-text-two a {
+        font-size: 13px;
+        padding: 12px 32px;
+        margin-top: 50px;
+    }
+    .home-about .about-btn {
+        margin-top: 10px;
+    }
+    .htwo-benefits-left ul li h3 {
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    .htwo-benefits-left ul li p {
+        font-size: 13px;
+    }
+    .htwo-benefits-left ul li i {
+        top: 8px;
+        right: -40px;
+        font-size: 15px;
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+    }
+    .htwo-benefits-right ul li i {
+        left: -40px;
+    }
+    .htwo-benefits-right ul li h3 {
+        padding-left: 12px;
+    }
+    .htwo-benefits-right ul li p {
+        padding-left: 12px;
+    }
+    .htwo-benefits-left ul li {
+        padding-bottom: 40px;
+    }
+    .htwo-schedule-item ul li h3 {
+        font-size: 16px;
+        padding-bottom: 10px;
+    }
+    .htwo-schedule-item ul li i {
+        font-size: 24px;
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+    }
+    .htwo-schedule-item ul li {
+        padding-left: 78px;
+        padding-bottom: 35px;
+    }
+    .htwo-schedule-item .video-topic a {
+        font-size: 15px;
+        padding: 11px 35px;
+        margin-top: 40px;
+    }
+    .htwo-schedule-inner a {
+        right: 47%;
+        top: 35%;
+    }
+    .htwo-schedule-inner h3 {
+        bottom: 130px;
+    }
+    .htwo-schedule-inner p {
+        bottom: 45px;
+    }
+    .htwo-choose span {
+        font-size: 23px;
+    }
+    .htwo-choose a {
+        font-size: 13px;
+        padding: 11px 40px;
+    }
+    .htwo-formula .htwo-img-two {
+        height: 128px;
+    }
+    .htwo-formula .htwo-img-one {
+        height: 287px;
+    }
+    .htwo-counter-item h3 {
+        font-size: 25px;
+        padding-bottom: 3px;
+    }
+    .htwo-counter-item p {
+        font-size: 16px;
+    }    
+    /* End Home Two */
+
+    /* Classes */
+    .p-three-banner {
+        height: 375px;
+    }
+    .p-three-banner .banner-text span {
+        font-size: 35px;
+    }
+    .about-p-three .service-head p {
+        padding-top: 15px;
+    }
+    .about-p-three-item .img-one {
+        position: relative;
+        top: 3px;
+    }
+    .about-p-three-item .img-two {
+        position: relative;
+        top: 0;
+        right: 0;
+        border-left: 0;
+        border-bottom: 0;
+    }
+    .about-p-three-item a {
+        font-size: 14px;
+        padding: 11px 35px;
+        margin-top: 30px;
+    }
+    .p-six-day span {
+        padding: 8px 0 8px;
+        font-size: 12px;
+    }
+    .p-six-day .day-item h3 {
+        font-size: 13px;
+        padding-top: 15px;
+    }
+    .p-six-day .day-item span {
+        font-size: 13px;
+        padding-bottom: 22px;
+    }
+    .p-six-day .day-item p {
+        font-size: 12px;
+        padding: 10px 0 8px;
+        line-height: 18px;
+    }
+    /* End Classes */
+
+    /* Team */
+    .p-three-banner .banner-text span {
+        font-size: 35px;
+        margin-bottom: 0;
+    }
+    .p-seven-member .p-seven-member-item h3 {
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .p-seven-member .p-seven-member-item p {
+        padding-bottom: 15px;
+    }
+    .p-seven-team-inner {
+        position: relative;
+        left: 0;
+        top: 20px;
+    }
+    .p-seven-team-inner span {
+        font-size: 14px;
+        padding-top: 8px;
+        padding-bottom: 10px;
+    }
+    .p-seven-team-inner p {
+        padding-bottom: 10px;
+    }
+    .p-seven-team-inner ul li a {
+        margin-right: 10px;
+    }
+    .p-seven-team .team-one, .p-seven-team .team-two {
+        margin-bottom: 90px;
+    }
+    .team-before:after {
+        width: 75%;
+    }
+    /* End Team */
+
+    /* 404 */
+    .p-nine-error-item span {
+        font-size: 80px;
+        margin-top: 0;
+    }
+    .p-nine-error-item p {
+        font-size: 25px;
+        padding: 15px 0 65px;
+    }
+    .p-nine-error-item a {
+        color: #fff;
+        padding: 15px 35px;
+        font-size: 14px;
+    }
+    .error-footer:before {
+        width: 70%;
+    }
+    /* End 404 */
+
+    /* About */
+    .p-three-banner .banner-text p {
+        font-size: 17px;
+    }
+    .p-three-weight .weight {
+        padding: 70px 10px 86px 40px;
+    }
+    .p-three-weight-item h2 {
+        font-size: 27px;
+        margin-bottom: 20px;
+    }
+    .p-three-weight-item p {
+        font-size: 16px;
+        padding-bottom: 25px;
+    }
+    /* End About */
+
+    /* Contact */
+    .p-four-updates .service-head {
+        padding-bottom: 0;
+    }
+    .p-four-updates .htwo-schedule-item ul li {
+        padding-bottom: 25px;
+    }
+    .p-four-updates .htwo-schedule-item ul li p {
+        padding-bottom: 5px;
+    }
+    .p-four-updates .htwo-schedule-item ul li i {
+        font-size: 18px;
+    }
+    .p-four-contact img {
+        padding-top: 17px;
+        padding-bottom: 15px;
+    }
+    .p-four-contact p {
+        padding-bottom: 40px;
+    }
+    .contact-form .form-control {
+        font-size: 15px;
+    }
+    .send-btn {
+        font-size: 15px;
+        padding: 12px 34px;
+    }
+    /* End Contact */
+
+    /* Shop */
+    .p-eight-item img {
+        padding-top: 35px;
+        padding-bottom: 10px;
+        height: 199px;
+    }
+    .p-eight-item h3 {
+        font-size: 16px;
+        padding: 12px 0 7px;
+    }
+    .p-eight-item-name {
+        padding-top: 23px;
+        padding-left: 20px;
+        padding-bottom: 2px;
+    }
+    .p-eight-item-name ul li {
+        padding-bottom: 10px;
+    }
+    .p-eight-item-name h3 {
+        font-size: 15px;
+        margin-bottom: 14px;
+    }
+    .p-eight-item-name-new {
+        padding-top: 25px;
+        padding-left: 20px;
+    }
+    .p-eight-item-name-new h3 {
+        font-size: 15px;
+        margin-bottom: 14px;
+    }
+    .p-eight-item-name-new ul li {
+        padding-bottom: 10px;
+    }
+    .new-inner {
+        padding-bottom: 20px;
+    }
+    .pagination-area ul li a {
+        padding: 9px 15px;
+        font-size: 13px;
+        font-size: 14px;
+    }
+    /* End Shop */
+
+}
+
+@media only screen and (min-width : 992px) and (max-width : 1199px) {
+    
+    /* Home */
+    .home-service-item h3 {
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+    .home-girl-item i {
+        top: 65px;
+        left: -24px;
+        font-size: 32px;
+    }
+    .htwo-benefits-right ul li p {
+        padding-left: 78px;
+    }
+    .htwo-benefits-right ul li h3 {
+        padding-left: 78px;
+    }
+    .htwo-benefits-left ul li {
+        padding-bottom: 60px;
+    }
+    .htwo-schedule-item ul li h3 {
+        padding-bottom: 10px;
+    }
+    .htwo-schedule-item p {
+        padding-bottom: 30px;
+    }
+    .htwo-schedule-item ul li {
+        padding-bottom: 35px;
+    }
+    .htwo-schedule-item .video-topic a {
+        margin-top: 35px;
+    }
+    .htwo-schedule-inner h3 {
+        bottom: 325px;
+    }
+    .htwo-schedule-inner p {
+        bottom: 262px;
+    }
+    .htwo-schedule-inner a {
+        right: 43%;
+        top: 22%;
+    }
+    .htwo-formula .htwo-img-two {
+        height: 180px;
+    }
+    .htwo-formula .htwo-img-one {
+        height: 392px;
+    }
+    /* End Home */
+
+    /* Classes */
+    .p-three-banner {
+        height: 500px;
+    }
+    .p-six-day .day-item p {
+        font-size: 11px;
+        padding: 11px 0 6px;
+    }
+    .p-six-day .day-item span {
+        font-size: 15px;
+        padding-bottom: 30px;
+    }
+    /* End Classes */
+
+    /* Team */
+    .p-seven-team-inner {
+        left: 295px;
+    }
+    .p-seven-team-inner span {
+        padding-top: 13px;
+        padding-bottom: 14px;
+    }
+    .p-seven-team-inner ul li a {
+        margin-right: 10px;
+    }
+    .team-before:after {
+        width: 53%;
+    }
+    /* End Team */
+
+    /* About */
+    .p-three-weight .weight {
+        padding: 75px 42px 93px 75px;
+    }
+    /* End About */
+
+    /* Services */
+    .p-three-banner .banner-text span {
+        margin-bottom: 0;
+    }
+    /* End Services */
+
+}
